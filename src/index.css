@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap");
+
+body {
+  background-color: #f0f0f0;
+  font-family: "Inter", sans-serif;
+  margin: 0;
+}
+
+button {
+  border: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  color: #081e34;
+}
+
+a:hover {
+  color: #081e34;
+}
+
+a:visited {
+  color: #081e34;
+}
